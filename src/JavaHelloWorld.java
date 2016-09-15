@@ -4,6 +4,6 @@ public class JavaHelloWorld
     {
 	System.out.println("Java Hello World");
 
-	System.out.println("Morning Helena");
+	System.out.println("Morning Stellan");
     }
 }
